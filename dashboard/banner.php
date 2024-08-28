@@ -1,7 +1,7 @@
 <?php
 
   include "./include/dashboardHeader.php" ;
-  include('../database/env.php');
+  include "../database/env.php";
 ?>
               
               
@@ -76,6 +76,7 @@
 <?php
 
 include "./include/dashboardFooter.php" ;
+
 ?>
 
 
